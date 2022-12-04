@@ -1,0 +1,5 @@
+mode:receiver
+type:icecast
+streamurl:streams.upg.gr
+param1:ermisradio
+param2:ermisradio
